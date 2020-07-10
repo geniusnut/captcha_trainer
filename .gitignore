@@ -83,4 +83,4 @@ ENV/
 *.pid
 nohup.out
 
-projects/*
+# projects/*
